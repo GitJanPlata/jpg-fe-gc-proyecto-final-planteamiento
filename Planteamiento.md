@@ -1,4 +1,3 @@
-
 # Propuesta de proyecto
 
 ## Aplicación de reserva de hoteles YadoGo
@@ -17,33 +16,28 @@ Si, hay bastantes portales de búsqueda de hoteles como TriVaGo, TripAdvisor, Bo
 
 ### ¿Qué ventaja especial hace diferente tu proyecto?
 
-Nuestra aplicación contendrá información actualizada diariamente para proporcionar las mejores 
+Nuestra aplicación contendrá información actualizada diariamente para proporcionar las mejores opciones de alojamiento.
 
 ### Lista todas las funcionalidades que el usuario podrá llevar a cabo.
 
-1. Logearse/Registrarse
-2. Buscar hoteles por población
-3. Filtrar busqueda por características de hotel
-4. Seleccionar hotel
-5. Ver características del hotel seleccionado( precios, características, servicios, tipos de habitaciones)
-6. Comparar precios con hoteles cercanos/similares
-7. Añadir seccion de hoteles/destinos favoritos
- 
+1. Logearse/Registrarse.
+2. Buscar hoteles por población.
+3. Filtrar busqueda por características de hotel.
+4. Seleccionar hotel.
+5. Ver características del hotel seleccionado( precios, características, servicios, tipos de habitaciones).
+6. Comparar precios con hoteles cercanos/similares.
+7. Sección de hoteles/destinos favoritos.
 
 ### Extrae de ese listado anterior, todas las funcionalidades necesarias para crear un MVP.
 
 En el MVP el usuario podrá:
 
-1. Buscar población
-2. Filtrar busqueda por características de hotel
-3. Seleccionar hotel
-4. Ver características del hotel seleccionado
-
+1. Buscar hoteles por población y visualizar sus precios.
+2. Filtrar la búsqueda por características y servicios de hotel.
+3. Seleccionar hotel.
+4. Ver características del hotel seleccionado.
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
-
-
-
 
 ### Reflexiona: Tienes dos semanas para desarrollar tu proyecto, ¿te da tiempo para cumplir todas las funcionalidades que has sacado en el punto anterior?
 
