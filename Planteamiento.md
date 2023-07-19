@@ -36,8 +36,13 @@ En el MVP el usuario podrá:
 2. Filtrar la búsqueda por características y servicios de hotel.
 3. Seleccionar hotel.
 4. Ver características del hotel seleccionado.
+5. Hacer reserva.
+6. Gestionar sus reservas.
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
+
+![image](https://github.com/GitJanPlata/jpg-fe-gc-proyecto-final-planteamiento/assets/96839905/50dbe407-730d-479c-b3dd-504550489dae)
+
 
 ### Reflexiona: Tienes dos semanas para desarrollar tu proyecto, ¿te da tiempo para cumplir todas las funcionalidades que has sacado en el punto anterior?
 
