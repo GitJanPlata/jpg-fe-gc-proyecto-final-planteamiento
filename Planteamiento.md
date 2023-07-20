@@ -25,8 +25,9 @@ Nuestra aplicación contendrá información actualizada diariamente para proporc
 3. Filtrar busqueda por características de hotel.
 4. Seleccionar hotel.
 5. Ver características del hotel seleccionado( precios, características, servicios, tipos de habitaciones).
-6. Comparar precios con hoteles cercanos/similares.
-7. Sección de hoteles/destinos favoritos.
+6. Comparar precios con hoteles cercanos/similares.(proximidad, precio, etrellas)
+7. Sección de hoteles/destinos favoritos. (Para usuarios registrados)
+8. Dar de alta hotel(Usuario colaborador)
 
 ### Extrae de ese listado anterior, todas las funcionalidades necesarias para crear un MVP.
 
@@ -36,8 +37,8 @@ En el MVP el usuario podrá:
 2. Filtrar la búsqueda por características y servicios de hotel.
 3. Seleccionar hotel.
 4. Ver características del hotel seleccionado.
-5. Hacer reserva.
-6. Gestionar sus reservas.
+5. *Extra* Comparador de precios
+6. *Extra* Sección de hoteles/destinos favoritos.
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
 
