@@ -22,7 +22,7 @@ Nuestra aplicación contendrá información actualizada diariamente para proporc
 
 1. Logearse/Registrarse.
 2. Buscar hoteles por población.
-3. Filtrar busqueda por características de hotel.
+3. Filtrar busqueda por características de hotel.(precio, tamaño habitaciones, valoraciones, etc...)
 4. Seleccionar hotel.
 5. Ver características del hotel seleccionado( precios, características, servicios, tipos de habitaciones).
 6. Comparar precios con hoteles cercanos/similares.(proximidad, precio, etrellas)
@@ -39,6 +39,9 @@ En el MVP el usuario podrá:
 4. Ver características del hotel seleccionado.
 5. *Extra* Comparador de precios
 6. *Extra* Sección de hoteles/destinos favoritos.
+7.  Dar de alta hotel(Usuario colaborador)
+8.  Logearse/Registrarse.
+9.  
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
 
