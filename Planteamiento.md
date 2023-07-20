@@ -45,8 +45,11 @@ En el MVP el usuario podrá:
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
 ### Flujo de Usuario registrado 
 ![image](https://github.com/GitJanPlata/jpg-fe-gc-proyecto-final-planteamiento/assets/96839905/084febb8-c728-40d1-80ad-403cd01c30f0)
+### Flujo de Usuario no registrado
+![image](https://github.com/YadoGo/yadogo-task/assets/96839905/cd71fdee-99b0-4acd-a2b2-d30ac534f2a2)
 ### Flujo de Usuario Manager 
 ![image](https://github.com/YadoGo/yadogo-task/assets/96839905/37b9cb85-9217-421b-ab9a-1378f0bf1f95)
+
 
 
 
