@@ -41,7 +41,7 @@ En el MVP el usuario podrá:
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
 
-![image](https://github.com/GitJanPlata/jpg-fe-gc-proyecto-final-planteamiento/assets/96839905/50dbe407-730d-479c-b3dd-504550489dae)
+![image](https://github.com/GitJanPlata/jpg-fe-gc-proyecto-final-planteamiento/assets/96839905/084febb8-c728-40d1-80ad-403cd01c30f0)
 
 
 ### Reflexiona: Tienes dos semanas para desarrollar tu proyecto, ¿te da tiempo para cumplir todas las funcionalidades que has sacado en el punto anterior?
