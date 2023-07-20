@@ -20,6 +20,18 @@ Nuestra aplicación contendrá información actualizada diariamente para proporc
 
 ### Lista todas las funcionalidades que el usuario podrá llevar a cabo.
 
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Número | Función                                                                        				                      | Admin | Normal | Invitado |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.     | Logearse/Registrarse.                                                          				                      | - 	  | - 	   | - 	      |
+| 2.     | Buscar hoteles por población.                                                  				                      | - 	  | - 	   | - 	      |
+| 3.     | Filtrar búsqueda por características de hotel. (precio, tamaño habitaciones, valoraciones, etc...) 		      | - 	  | - 	   | - 	      |
+| 4.     | Seleccionar hotel.                                                             				                      | - 	  | - 	   | - 	      |
+| 5.     | Ver características del hotel seleccionado (precios, características, servicios, tipos de habitaciones). 	  | - 	  | - 	   | - 	      |
+| 6.     | Comparar precios con hoteles cercanos/similares. (proximidad, precio, estrellas) 				                    | - 	  | - 	   | - 	      |
+| 7.     | Sección de hoteles/destinos favoritos. (Para usuarios registrados)              				                      | - 	  | - 	   | - 	      |
+| 8.     | Dar de alta hotel (Usuario colaborador)                                        				                      | - 	  | - 	   | - 	      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|
 1. Logearse/Registrarse.
 2. Buscar hoteles por población.
 3. Filtrar busqueda por características de hotel.(precio, tamaño habitaciones, valoraciones, etc...)
