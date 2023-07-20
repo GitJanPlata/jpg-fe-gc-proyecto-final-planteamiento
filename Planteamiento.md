@@ -33,19 +33,21 @@ Nuestra aplicación contendrá información actualizada diariamente para proporc
 
 En el MVP el usuario podrá:
 
-1. Buscar hoteles por población y visualizar sus precios.
-2. Filtrar la búsqueda por características y servicios de hotel.
-3. Seleccionar hotel.
-4. Ver características del hotel seleccionado.
-5. *Extra* Comparador de precios
-6. *Extra* Sección de hoteles/destinos favoritos.
-7.  Dar de alta hotel(Usuario colaborador)
-8.  Logearse/Registrarse.
-9.  
+1. Logearse/Registrarse.
+2. Buscar hoteles por población.
+3. Filtrar la búsqueda por características y servicios de hotel.
+4. Visualizar precios y seleccionar hotel.
+5. Ver características del hotel seleccionado.
+6. *Extra* Comparador de precios
+7. *Extra* Sección de hoteles/destinos favoritos.(Para usuarios registrados)
+8.  Dar de alta hotel(Usuario colaborador)
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
-
+### Flujo de Usuario registrado 
 ![image](https://github.com/GitJanPlata/jpg-fe-gc-proyecto-final-planteamiento/assets/96839905/084febb8-c728-40d1-80ad-403cd01c30f0)
+### Flujo de Usuario Manager 
+![image](https://github.com/YadoGo/yadogo-task/assets/96839905/37b9cb85-9217-421b-ab9a-1378f0bf1f95)
+
 
 
 ### Reflexiona: Tienes dos semanas para desarrollar tu proyecto, ¿te da tiempo para cumplir todas las funcionalidades que has sacado en el punto anterior?
