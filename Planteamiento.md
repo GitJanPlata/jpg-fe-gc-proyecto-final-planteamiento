@@ -16,7 +16,7 @@ Si, hay bastantes portales de búsqueda de hoteles como TriVaGo, TripAdvisor, Bo
 
 ### ¿Qué ventaja especial hace diferente tu proyecto?
 
-Nuestra aplicación contendrá información actualizada diariamente para proporcionar las mejores opciones de alojamiento.
+Nuestra aplicación permitirá a los usuarios navegar por los perfiles de los demas usuarios a modo de red social, obteniendo información sobre sus reseñas, destinos recientemente vistos, hoteles favoritos.
 
 ### Lista todas las funcionalidades que el usuario podrá llevar a cabo.
 
@@ -25,9 +25,9 @@ Nuestra aplicación contendrá información actualizada diariamente para proporc
 3. Filtrar busqueda por características de hotel.(precio, tamaño habitaciones, valoraciones, etc...)
 4. Seleccionar hotel.
 5. Ver características del hotel seleccionado( precios, características, servicios, tipos de habitaciones).
-6. Comparar precios con hoteles cercanos/similares.(proximidad, precio, etrellas)
+6. Comparar precios con hoteles cercanos/similares. (proximidad, precio, etrellas)
 7. Sección de hoteles/destinos favoritos. (Para usuarios registrados)
-8. Dar de alta hotel(Usuario colaborador)
+8. CRUD de hotel (Usuario colaborador).
 
 ### Extrae de ese listado anterior, todas las funcionalidades necesarias para crear un MVP.
 
@@ -38,9 +38,9 @@ En el MVP el usuario podrá:
 3. Filtrar la búsqueda por características y servicios de hotel.
 4. Visualizar precios y seleccionar hotel.
 5. Ver características del hotel seleccionado.
-6. *Extra* Comparador de precios
-7. *Extra* Sección de hoteles/destinos favoritos.(Para usuarios registrados)
-8.  Dar de alta hotel(Usuario colaborador)
+6. *Extra* Comparador de precios.
+7. *Extra* Sección de hoteles/destinos favoritos. (Para usuarios registrados)
+8. CRUD de hotel (Usuario colaborador).
 
 ### Define el flujo del usuario de inicio a fin mediante un diagrama.
 ### Flujo de Usuario registrado 
